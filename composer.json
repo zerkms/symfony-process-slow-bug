@@ -1,0 +1,6 @@
+{
+    "name": "zerkms/symfony-process-slow-bug",
+    "require": {
+        "symfony/process": "^3.3"
+    }
+}
